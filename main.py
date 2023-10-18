@@ -1,4 +1,4 @@
-# Encoder function
+# Matthew Dam Encoder function
 def encode():
     # Converts input string into list
     password = list(input("Please enter your password to encode: "))
